@@ -29,7 +29,7 @@ export const about = {
 
 export const marqueeWords = [
   "DATABRICKS", "PYSPARK", "PYTHON", "AGENTIC AI", "AIRFLOW", "SQL",
-  "MACHINE LEARNING", "ASTRONOMER AIRFLOW", "AWS", "INFORMATICA", "CICD", "HARNESS",
+  "MACHINE LEARNING", "ASTRONOMER AIRFLOW", "AWS", "INFORMATICA", "CICD", "HARNESS", "Three.js"
 ];
 
 export const skillGroups = [
@@ -44,7 +44,7 @@ export const skillGroups = [
 export const sphereSkills = [
   "Databricks", "PySpark", "Delta", "Unity Catalog", "Airflow", "SQL", "Python",
   "AWS", "Glue", "EMR", "Redshift", "Kafka", "CDC", "Power BI", "Informatica",
-  "sklearn", "Pandas", "LLMs", "Three.js", "GLSL", "GSAP", "Blender", "Next.js", "Git",
+  "sklearn", "Pandas", "LLMs", "Three.js", "GLSL", "GSAP", "Numpy", "Next.js", "Git",
 ];
 
 export const pipelineStages = [
