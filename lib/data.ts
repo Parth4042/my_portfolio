@@ -28,8 +28,8 @@ export const about = {
 };
 
 export const marqueeWords = [
-  "DATABRICKS", "PYSPARK", "DELTA LAKE", "THREE.JS", "AIRFLOW", "SQL",
-  "MACHINE LEARNING", "GLSL", "AWS", "INFORMATICA", "POWER BI", "NEXT.JS",
+  "DATABRICKS", "PYSPARK", "PYTHON", "AGENTIC AI", "AIRFLOW", "SQL",
+  "MACHINE LEARNING", "ASTRONOMER AIRFLOW", "AWS", "INFORMATICA", "CICD", "HARNESS",
 ];
 
 export const skillGroups = [
