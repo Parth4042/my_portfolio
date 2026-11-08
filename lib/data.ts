@@ -127,7 +127,13 @@ export const experience = [
 ];
 
 export const lab = {
-  title: "Creative Lab",
-  text: "Graphics is my playground. I model in 3D, write shaders and choreograph motion — the same curiosity that makes me obsess over clean data makes me obsess over clean light.",
-  tools: ["Three.js", "GLSL", "Blender", "GSAP", "React Three Fiber"],
+  title: "Next Evolution",
+  text: "The journey doesn't stop at what I know. I'm constantly pushing my boundaries, exploring intelligent systems, advanced AI, high-performance computing and immersive digital experiences.",
+  tools: [
+    "Advanced AI",
+    "Machine Learning",
+    "System Architecture",
+    "Game Technology",
+    "Emerging Tech"
+  ],
 };
