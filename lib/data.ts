@@ -12,7 +12,7 @@ export const profile = {
   resumeUrl: "",                   // TODO: link to your resume PDF in /public
   socials: [
     { label: "GitHub", href: "https://github.com/Parth4042" },      // TODO
-    { label: "LinkedIn", href: "www.linkedin.com/in/parth-deshmukh-01727b346" },  // TODO
+    { label: "LinkedIn", href: "https://www.linkedin.com/in/parth-deshmukh-01727b346/" },  // TODO
     { label: "ArtStation", href: "https://artstation.com/" }, // TODO
   ],
 };
@@ -57,7 +57,7 @@ export const pipelineStages = [
 
 export const projects = [
   {
-    title: "CellSight – Breast Cancer Diagnosis and Metastasis Risk Prediction",
+    title: "CellSight – Breast Cancer Detection & Metastasis Prediction",
     category: "Data Engineering",
     year: "2025",
     description: "CellSight is an AI-powered healthcare solution that analyzes breast cancer histopathology images to detect and classify tumors as benign or malignant, segment cancer-affected regions, and predict the risk of metastasis using deep learning and machine learning techniques.",
