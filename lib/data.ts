@@ -60,7 +60,7 @@ export const projects = [
     title: "CellSight – Breast Cancer Detection & Metastasis Prediction",
     category: "Data Engineering",
     year: "2025",
-    description: "CellSight is an AI-powered healthcare solution that analyzes breast cancer histopathology images to detect and classify tumors as benign or malignant, segment cancer-affected regions, and predict the risk of metastasis using deep learning and machine learning techniques.",
+    description: "CellSight is an AI-powered solution that detects and classifies breast cancer, segments affected regions, and predicts metastasis risk using deep learning.",
     tags: ["Deep Learning", "Machine Learning", "QuPath", "Python" ],
     link: "The project source code is protected under copyright and maintained in a private repository; therefore, a public code link is unavailable.",
   },
