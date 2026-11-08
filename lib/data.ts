@@ -8,11 +8,11 @@ export const profile = {
   role: "Data Engineer",
   tagline: "I engineer data that flows — and worlds that move.",
   location: "Pune, India",
-  email: "your.email@example.com", // TODO: replace
-  resumeUrl: "#",                   // TODO: link to your resume PDF in /public
+  email: "parthdeshmukh4042@gamail.com", // TODO: replace
+  resumeUrl: "",                   // TODO: link to your resume PDF in /public
   socials: [
-    { label: "GitHub", href: "https://github.com/" },      // TODO
-    { label: "LinkedIn", href: "https://linkedin.com/" },  // TODO
+    { label: "GitHub", href: "https://github.com/Parth4042" },      // TODO
+    { label: "LinkedIn", href: "www.linkedin.com/in/parth-deshmukh-01727b346" },  // TODO
     { label: "ArtStation", href: "https://artstation.com/" }, // TODO
   ],
 };
@@ -57,12 +57,12 @@ export const pipelineStages = [
 
 export const projects = [
   {
-    title: "CDC Lakehouse Bridge",
+    title: "CellSight – Breast Cancer Diagnosis and Metastasis Risk Prediction",
     category: "Data Engineering",
-    year: "2026",
-    description: "Change-data-capture pipeline from Databricks catalog → pre-land → Delta CDC → MySQL 'Today' layer with merge logic and audit trails.",
-    tags: ["Databricks", "Delta CDF", "PySpark", "MySQL"],
-    link: "#",
+    year: "2025",
+    description: "CellSight is an AI-powered healthcare solution that analyzes breast cancer histopathology images to detect and classify tumors as benign or malignant, segment cancer-affected regions, and predict the risk of metastasis using deep learning and machine learning techniques.",
+    tags: ["Deep Learning", "Machine Learning", "QuPath", "Python" ],
+    link: "The project source code is protected under copyright and maintained in a private repository; therefore, a public code link is unavailable.",
   },
   {
     title: "Healthcare Medallion Pipeline",
@@ -114,15 +114,6 @@ export const experience = [
     points: [
       "Modernizing legacy Informatica ETL into PySpark on Databricks.",
       "Designing CDC flows with Delta Change Data Feed into relational targets.",
-    ],
-  },
-  {
-    period: "2026",
-    role: "Lakehouse Engineering",
-    org: "Healthcare Data Platform",
-    points: [
-      "Built medallion layers with Unity Catalog governance.",
-      "Implemented reconciliation testing and alerting notebooks.",
     ],
   },
   {
